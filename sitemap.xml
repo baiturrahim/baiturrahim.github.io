@@ -3,167 +3,167 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://balaramadurai.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2017-05-30T16:56:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2017-05-30T16:56:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/categories/new-york/</loc>
+    <loc>/categories/new-york/</loc>
     <lastmod>2017-05-30T16:56:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/categories/other-destinations/</loc>
+    <loc>/categories/other-destinations/</loc>
     <lastmod>2017-05-30T16:56:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2017-05-30T16:56:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/tags/static-sites/</loc>
+    <loc>/tags/static-sites/</loc>
     <lastmod>2017-05-30T16:56:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2017-05-30T16:56:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/tags/theme/</loc>
+    <loc>/tags/theme/</loc>
     <lastmod>2017-05-30T16:56:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/this-post-has-no-body/</loc>
+    <loc>/post/this-post-has-no-body/</loc>
     <lastmod>2017-05-30T16:56:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/hugo-travelify-theme-features/</loc>
+    <loc>/post/hugo-travelify-theme-features/</loc>
     <lastmod>2016-06-28T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/tags/ipsum/</loc>
+    <loc>/tags/ipsum/</loc>
     <lastmod>2016-06-28T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/categories/lorem/</loc>
+    <loc>/categories/lorem/</loc>
     <lastmod>2016-06-28T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/migrate-from-jekyll/</loc>
+    <loc>/post/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/linked-post/</loc>
+    <loc>/post/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/categories/programming/</loc>
+    <loc>/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/tags/programming/</loc>
+    <loc>/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/author/</loc>
+    <loc>/author/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/go-is-for-lovers/</loc>
+    <loc>/post/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/author/test2/</loc>
+    <loc>/author/test2/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/hugo-is-for-lovers/</loc>
+    <loc>/post/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/categories/pseudo/</loc>
+    <loc>/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/author/test1/</loc>
+    <loc>/author/test1/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/creating-a-new-theme/</loc>
+    <loc>/post/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/test1/</loc>
+    <loc>/post/test1/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/test2/</loc>
+    <loc>/post/test2/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/test3/</loc>
+    <loc>/post/test3/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/post/test4/</loc>
+    <loc>/post/test4/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://balaramadurai.github.io/categories/starting/</loc>
+    <loc>/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
