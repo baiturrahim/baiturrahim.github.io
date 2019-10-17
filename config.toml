@@ -1,6 +1,6 @@
-baseURL = "http://balaramadurai.github.io/"
-title = "Travelify"
-subtitle = "Travel theme for Hugo with Slider"
+baseURL = ""
+title = "Masjid Jami' Baiturrahim"
+subtitle = ""
 languageCode = "en-us"
 # preservetaxonomynames = true
 theme = "travelify"
@@ -10,8 +10,8 @@ canonifyURLs = true
 
 [params]
     # Tell me who you are
-    author = "nikimonikado"
-    site_description = "Travel theme for Hugo with Slider"
+    author = "widya"
+    site_description = "Ilmu dan Amal dalam ibadah"
     copyright  = "Copyright"
 #    avatar = "avatar.png"
     logo = "logo.png"
