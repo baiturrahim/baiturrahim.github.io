@@ -7,7 +7,7 @@ disable_comments: true
 
 ---
 
-# You may contact me through the nearest wormhole
+# You may contact me here
 
 This is where my great contact goes
 
